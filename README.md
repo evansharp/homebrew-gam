@@ -9,7 +9,7 @@ A Homebrew formula for joylee's GAM script.
 ## Installation
 
 ```
-brew tap evansharp
+brew tap evansharp/homebrew-gam
 brew install gam
 ```
 
@@ -17,7 +17,7 @@ brew install gam
 
 ```
 brew uninstall gam 
-brew untap evansharp
-brew tap evansharp
+brew untap evansharp/homebrew-gam
+brew tap evansharp/homebrew-gam
 brew install gam
 ```
