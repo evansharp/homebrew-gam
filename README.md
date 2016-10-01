@@ -1,6 +1,6 @@
-homebrew-it
+homebrew-gam
 -----------
-The IT Team's Homebrew formulae.
+A Homebrew formula for joylee's GAM script.
 
 * `gam` -- GAM is a command line tool for Google Apps Administrators
 
